@@ -5,6 +5,8 @@
 # only loads the data
 data("NHANES", package = "hexbin")
 
+# mhigginsconsulting edits added here
+
 # multiple choice questions
 # run ls() and sessionInfo() again - answer questions
 # 1. How many objects are now in the global environment? [2]
