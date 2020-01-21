@@ -5,7 +5,7 @@
 # only loads the data
 data("NHANES", package = "hexbin")
 
-# mhigginsconsulting edits added here, edit 2
+# mhigginsconsulting edits added here, edit 345
 
 # multiple choice questions
 # run ls() and sessionInfo() again - answer questions
